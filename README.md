@@ -6,6 +6,18 @@
 ### * Năm học: 2020-2024
 ### * Khoa Công Nghệ Thông Tin
 ### * Ngành học: Công nghệ phần mềm
+
+
+
+# CV CÁ NHÂN
+## Thông Tin Cá Nhân
+### * Họ và tên: Nguyễn Huỳnh Phi Vũ
+### * MSSV: 2011068937
+### * Lớp: 20DTHC4
+### * Năm học: 2020-2024
+### * Khoa Công Nghệ Thông Tin
+### * Ngành học: Công nghệ phần mềm
+
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
 > [!NOTE]
 > Useful information that users should know, even when skimming content.
